@@ -63,7 +63,6 @@ export default {
             default: 1
         },
         rating: {
-            type: Number,
             default: 0
         },
         roundStartRating: {
